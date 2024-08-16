@@ -1,0 +1,14 @@
+E:\kiemtrasonguyento\bin\Debug\net8.0\kiemtrasonguyento.exe
+E:\kiemtrasonguyento\bin\Debug\net8.0\kiemtrasonguyento.deps.json
+E:\kiemtrasonguyento\bin\Debug\net8.0\kiemtrasonguyento.runtimeconfig.json
+E:\kiemtrasonguyento\bin\Debug\net8.0\kiemtrasonguyento.dll
+E:\kiemtrasonguyento\bin\Debug\net8.0\kiemtrasonguyento.pdb
+E:\kiemtrasonguyento\obj\Debug\net8.0\kiemtrasonguyento.GeneratedMSBuildEditorConfig.editorconfig
+E:\kiemtrasonguyento\obj\Debug\net8.0\kiemtrasonguyento.AssemblyInfoInputs.cache
+E:\kiemtrasonguyento\obj\Debug\net8.0\kiemtrasonguyento.AssemblyInfo.cs
+E:\kiemtrasonguyento\obj\Debug\net8.0\kiemtrasonguyento.csproj.CoreCompileInputs.cache
+E:\kiemtrasonguyento\obj\Debug\net8.0\kiemtrasonguyento.dll
+E:\kiemtrasonguyento\obj\Debug\net8.0\refint\kiemtrasonguyento.dll
+E:\kiemtrasonguyento\obj\Debug\net8.0\kiemtrasonguyento.pdb
+E:\kiemtrasonguyento\obj\Debug\net8.0\kiemtrasonguyento.genruntimeconfig.cache
+E:\kiemtrasonguyento\obj\Debug\net8.0\ref\kiemtrasonguyento.dll
